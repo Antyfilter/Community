@@ -7,7 +7,7 @@ description: >-
 
 # 🙋 Online contribution - Safety Checlist
 
-
+## راهنما به زبان فارسی را از اینجا دانلود کنید
 
 ## First things first:
 
@@ -53,7 +53,7 @@ Guide on Github security&#x20;
 2. Use secure chat as much as possible.
 3. Use self-destructing messages when sending sensitive conversations.
 4. Don't use your personal photos as Profile picture.
-5. Disable Location-based contacts on Telegram.&#x20;
+5. Disable "Find Nearby" feature on Telegram.&#x20;
 
 
 
