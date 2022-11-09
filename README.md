@@ -2,7 +2,6 @@
 description: >-
   Antyfilter makes it easy to create effective VPN servers, giving anyone access
   to the open and free internet.
-coverY: 0
 layout: landing
 ---
 
