@@ -10,6 +10,16 @@ layout: landing
 
 
 
+## :closed\_lock\_with\_key: Security
+
+Before any contribution, pleas make sure you are secure :raised\_hands:
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+
+
 ## :gem: Blueprints
 
 {% content-ref url="blueprints/shadowsocks-v2ray-tls.md" %}
