@@ -7,7 +7,7 @@ description: >-
 
 # 🙋 Online contribution - Safety Checlist
 
-## راهنما به زبان فارسی را از اینجا دانلود کنید
+## راهنما به زبان فارسی را از [اینجا](https://drive.google.com/file/d/1gqm3ykKR15JLKhlm-lWE2RGypH89g4Ee/view?usp=share\_link) دانلود کنید
 
 ## First things first:
 
